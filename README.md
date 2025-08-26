@@ -31,13 +31,13 @@ How do current waiting times compare to previous years?
 Which specialties or age groups have the longest waits?
 
 ### Goal of the Dashboard
-To deliver an interactive visual tool that:
+#### To deliver an interactive visual tool that:
 
 Tracks the current status of the patient waiting list.
 
 Analyzes historical monthly trends.
 
-Performs detailed specialty and age-profile analysis [04:40].
+Performs detailed specialty and age-profile analysis.
 
 ### Walkthrough of Key Visuals
 
@@ -59,6 +59,7 @@ Strategic Planning: The analysis of historical trends and specialty breakdowns c
 Decision-Making: The tool enables data-driven decisions to optimize patient care and reduce waiting times.
 
 ## Screenshots / Demos
+[https://github.com/Ritika-piplani/Patient-Waiting-List-Analytics-Dashboard-/blob/main/Snapshot%20of%20Dashboard.jpg]
 
 
 
