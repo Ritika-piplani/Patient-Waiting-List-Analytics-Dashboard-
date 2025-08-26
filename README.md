@@ -59,7 +59,7 @@ Strategic Planning: The analysis of historical trends and specialty breakdowns c
 Decision-Making: The tool enables data-driven decisions to optimize patient care and reduce waiting times.
 
 ## Screenshots / Demos
-[https://github.com/Ritika-piplani/Patient-Waiting-List-Analytics-Dashboard-/blob/main/Snapshot%20of%20Dashboard.jpg]
+![Alt text][https://github.com/Ritika-piplani/Patient-Waiting-List-Analytics-Dashboard-/blob/main/Snapshot%20of%20Dashboard.jpg]
 
 
 
